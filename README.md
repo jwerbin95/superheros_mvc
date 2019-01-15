@@ -4,8 +4,7 @@
 
 ### Basic Express App
 
-1. Create a new directory inside your labs dir called "superheroes"
-1. cd into superheroes
+1. fork and clone this repo
 1. perform an npm init, specify server.js as your entry
 1. install express
 1. create a server.js file
@@ -18,7 +17,7 @@
 ### Routes
 
 1. Create a .json file called `superheros.json` with a containing this array `superheros = ['batman', 'superman', 'hulk']`
-1. Make sure to export this array appropriately using Module.exports
+1. Using a Buffer Stream or module.exports provide accsess to this array from your server.js file
 1. Create a route to /superheroes
     - The route should send the entire superheroes array
 1. Create a route to /superheroes/:index
