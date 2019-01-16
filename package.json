@@ -1,0 +1,22 @@
+{
+  "name": "superheros_mvc",
+  "version": "1.0.0",
+  "description": "superheroes_mvc",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jwerbin95/superheros_mvc.git"
+  },
+  "author": "Jacob Werbin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jwerbin95/superheros_mvc/issues"
+  },
+  "homepage": "https://github.com/jwerbin95/superheros_mvc#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
