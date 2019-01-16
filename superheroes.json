@@ -1,3 +1,5 @@
-{
-	"superheroes": "[{name: 'superman', powers: ['flight', 'invincible', 'x-ray vision']}, {name: 'batman', powers: ['none lol']}, {name: 'hulk', powers: ['super strength', 'big', 'green']}]"
-}
+[
+	{ "name": "superman", "powers": ["flight", "invincible", "x-ray vision"] },
+	{ "name": "batman", "powers": ["none lol"] },
+	{ "name": "hulk", "powers": ["super strength", "big", "green"] }
+]
